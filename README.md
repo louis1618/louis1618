@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👸 louis.dev()
+Stupid Developer💀
 
-<!--
-**louis1618/louis1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://louis1618.shop">
+  <img src="https://github.com/louis1618/louis1618.github.io/blob/main/favicon.png" 
+  title="" 
+  width="150" 
+  style="border-radius: 15px;" />
+</a>
 
-Here are some ideas to get you started:
+<kbd><img width=850 src="https://streak-stats.demolab.com?user=louis1618&theme=dark" /></kbd>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<kbd><img width=850 src="https://skillicons.dev/icons?i=typescript,js,java,py,html,css,react,nextjs,vite,nodejs,express,firebase,mongodb,docker,github,git,cloudflare" /></kbd>
+
+---
+
+## Project
+[바로가기](https://louis1618.shop/project)
