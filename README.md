@@ -8,8 +8,6 @@ Stupid Developer💀
   style="border-radius: 15px;" />
 </a>
 
-<kbd><img width=850 src="https://streak-stats.demolab.com?user=louis1618&theme=dark" /></kbd>
-
 <kbd><img width=850 src="https://skillicons.dev/icons?i=typescript,js,java,py,html,css,react,nextjs,vite,nodejs,express,firebase,mongodb,docker,github,git,cloudflare" /></kbd>
 
 ---
