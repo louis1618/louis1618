@@ -1,5 +1,4 @@
 # 👸 louis.dev()
-Stupid Developer💀
 
 <a href="https://louis1618.shop">
   <img src="https://github.com/louis1618/louis1618.github.io/blob/main/favicon.png" 
