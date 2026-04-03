@@ -9,7 +9,6 @@
 <a href="https://luverse.moring.co">
   <img src="https://moring.co/_next/image?url=%2Fpublic_img%2Flogo.svg&w=96&q=75" 
   title="" 
-  width="100" 
   style="border-radius: 15px;" />
 </a>
 
