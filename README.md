@@ -1,14 +1,15 @@
 # 👸 Luverse
 
 <a href="https://moring.co">
-  <img src="[https://github.com/louis1618/louis1618.github.io/blob/main/favicon.png](https://moring.louis1618.shop/logo.svg)" 
+  <img src="https://moring.co/_next/image?url=%2Fpublic_img%2Flogo.svg&w=96&q=75" 
   title="" 
   width="150" 
   style="border-radius: 15px;" />
 </a>
 <a href="https://luverse.moring.co">
-  <img src="https://moring.co/_next/image?url=%2Fpublic_img%2Flogo.svg&w=96&q=75" 
+  <img src="https://moring.co/_next/image?url=https%3A%2F%2Fgoiyqbdsfoauumuopkno.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Favatars%2Fb2edb370-fa2e-437a-9b3f-57c3c3227527%2F1765983861929.png&w=256&q=75" 
   title="" 
+  width="150"
   style="border-radius: 15px;" />
 </a>
 
